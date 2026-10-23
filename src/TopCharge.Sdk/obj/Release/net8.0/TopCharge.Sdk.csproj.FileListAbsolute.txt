@@ -1,0 +1,12 @@
+/Users/chawan/Desktop/Projects/TopCharge/sdk/csharp/src/TopCharge.Sdk/bin/Release/net8.0/TopCharge.Sdk.deps.json
+/Users/chawan/Desktop/Projects/TopCharge/sdk/csharp/src/TopCharge.Sdk/bin/Release/net8.0/TopCharge.Sdk.dll
+/Users/chawan/Desktop/Projects/TopCharge/sdk/csharp/src/TopCharge.Sdk/bin/Release/net8.0/TopCharge.Sdk.pdb
+/Users/chawan/Desktop/Projects/TopCharge/sdk/csharp/src/TopCharge.Sdk/obj/Release/net8.0/TopCharge.Sdk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chawan/Desktop/Projects/TopCharge/sdk/csharp/src/TopCharge.Sdk/obj/Release/net8.0/TopCharge.Sdk.AssemblyInfoInputs.cache
+/Users/chawan/Desktop/Projects/TopCharge/sdk/csharp/src/TopCharge.Sdk/obj/Release/net8.0/TopCharge.Sdk.AssemblyInfo.cs
+/Users/chawan/Desktop/Projects/TopCharge/sdk/csharp/src/TopCharge.Sdk/obj/Release/net8.0/TopCharge.Sdk.csproj.CoreCompileInputs.cache
+/Users/chawan/Desktop/Projects/TopCharge/sdk/csharp/src/TopCharge.Sdk/obj/Release/net8.0/TopCharge.Sdk.sourcelink.json
+/Users/chawan/Desktop/Projects/TopCharge/sdk/csharp/src/TopCharge.Sdk/obj/Release/net8.0/TopCharge.Sdk.dll
+/Users/chawan/Desktop/Projects/TopCharge/sdk/csharp/src/TopCharge.Sdk/obj/Release/net8.0/refint/TopCharge.Sdk.dll
+/Users/chawan/Desktop/Projects/TopCharge/sdk/csharp/src/TopCharge.Sdk/obj/Release/net8.0/TopCharge.Sdk.pdb
+/Users/chawan/Desktop/Projects/TopCharge/sdk/csharp/src/TopCharge.Sdk/obj/Release/net8.0/ref/TopCharge.Sdk.dll

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TopCharge.Sdk</id>
+    <version>1.0.0</version>
+    <authors>TopCharge</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://topcharge.app/</projectUrl>
+    <description>Official .NET SDK for the TopCharge merchant API.</description>
+    <releaseNotes>Initial public release.</releaseNotes>
+    <tags>topcharge payments payment-gateway sdk dotnet</tags>
+    <repository type="git" url="https://github.com/topcharge/TopCharge-JS-SDK.git" commit="596714357286b0cd4c3a04d64c9dad6e184ed049" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/chawan/Desktop/Projects/TopCharge/sdk/csharp/src/TopCharge.Sdk/bin/Release/net8.0/TopCharge.Sdk.dll" target="lib/net8.0/TopCharge.Sdk.dll" />
+    <file src="/Users/chawan/Desktop/Projects/TopCharge/sdk/csharp/README.md" target="/README.md" />
+  </files>
+</package>
