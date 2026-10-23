@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageId>TopCharge.Sdk</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>TopCharge</Authors>
+    <Description>Official .NET SDK for the TopCharge merchant API.</Description>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+</Project>

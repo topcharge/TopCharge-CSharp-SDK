@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TopCharge.Sdk.IntegrationExamples/1.0.0": {
+        "dependencies": {
+          "TopCharge.Sdk": "1.0.0"
+        },
+        "runtime": {
+          "TopCharge.Sdk.IntegrationExamples.dll": {}
+        }
+      },
+      "TopCharge.Sdk/1.0.0": {
+        "runtime": {
+          "TopCharge.Sdk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TopCharge.Sdk.IntegrationExamples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TopCharge.Sdk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
